@@ -22,6 +22,6 @@ The data for this analysis can be accessed and downloaded via the following step
 The dataset "outdoor-pollution-rate-vs-gdp.csv" is made of data comparing outdoor pollution rates to GDP across various countries over specific years. It includes columns for country names, the years of data collection, pollution rate indicators, and GDP figures (total or per capita). This dataset is instrumental in analyzing how economic growth patterns affect environmental health across different geographical locations and times. Such analysis can reveal trends and insights that are crucial for formulating public health policies and economic strategies that prioritize environmental sustainability alongside economic development.
 
 ## Interpreting Visualizations
-https://public.tableau.com/views/MGT4250Spring2024CourseProject/ScatterPlotofPollutionRatevs_GDPperCapita?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link 
+[Data vis 1](https://public.tableau.com/views/MGT4250Spring2024CourseProject/ScatterPlotofPollutionRatevs_GDPperCapita?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) 
 
 ## Discussion & Summary
