@@ -9,9 +9,9 @@ How do pollution rates correlate with economic growth globally, and what implica
 The question "How do pollution rates correlate with economic growth globally, and what implications might this have for environmental and public health policies?" is crucial for numerous reasons. It addresses the environmental impact of industrial activities linked to economic development, which is essential for sustainable growth strategies. The correlation between pollution and GDP is also pivotal for assessing public health outcomes, as increased pollution can lead to respiratory diseases and other health issues. This understanding aids policymakers in devising regulations that balance economic and environmental health, making economic planning more sustainable. Furthermore, global comparisons could offer insights that help countries learn from one another, potentially adopting practices that maintain or even enhance environmental quality without compromising economic growth.
 
 References: 
-Grossman, G. M., & Krueger, A. B. (1995). Economic growth and the environment. The Quarterly Journal of Economics, 110(2), 353-377.
-World Health Organization. (2021). Air pollution. [https://www.who.int/health-topics/air-pollution#tab=tab_1].
-Stern, D. I. (2004). The rise and fall of the Environmental Kuznets Curve. World Development, 32(8), 1419-1439.
+- Grossman, G. M., & Krueger, A. B. (1995). Economic growth and the environment. The Quarterly Journal of Economics, 110(2), 353-377.
+- World Health Organization. (2021). Air pollution. [https://www.who.int/health-topics/air-pollution#tab=tab_1].
+- Stern, D. I. (2004). The rise and fall of the Environmental Kuznets Curve. World Development, 32(8), 1419-1439.
 
 ## Data Description
 The data for this analysis can be accessed and downloaded via the following steps: 
