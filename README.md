@@ -33,7 +33,9 @@ The dataset "outdoor-pollution-rate-vs-gdp.csv" is made of data comparing outdoo
 
 [Visualization #2](https://public.tableau.com/views/MGT4250Spring2024CourseProject/TimeSeriesAnalysisofPollutionandGDPGrowthOverTime?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 <img width="1440" alt="Screenshot 2024-05-07 at 6 12 07 PM" src="https://github.com/apercival24/mgt4250spring2024/assets/169103992/e87d6e43-034e-4a17-9dbb-891d98765732">
-??? INTERPRETATION ???
+The line chart offers a historical view of pollution and economic growth over time, with the x-axis spanning from 1900 to 2025 and two y-axes representing GDP per capita and pollution rates. GDP growth has accelerated since the 1950s, peaking between 2015 and 2020 due to recent global economic changes. Pollution levels remained stable before the 1950s but gradually increased afterward, with a sharp peak aligning with the economic surge from 2015 to 2020 before declining.
+
+The correlation between rising GDP per capita and increased pollution levels highlights the importance of balanced environmental policies that consider economic expansion. Policymakers should promote sustainable development to mitigate environmental impacts, especially given the recent pollution dip likely linked to the COVID-19 pandemic. Stricter standards and cleaner technologies can support growth without compromising health or environmental quality, emphasizing the need for proactive policies to decouple economic growth from pollution.
 
 [Visualization #3](https://public.tableau.com/views/MGT4250Spring2024CourseProject/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 <img width="1440" alt="Screenshot 2024-05-07 at 6 21 27 PM" src="https://github.com/apercival24/mgt4250spring2024/assets/169103992/89e57445-1c58-4de0-ac68-cc860139bba4">
