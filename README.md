@@ -2,7 +2,9 @@
 Author: Alex Percival (apercival@elon.edu)
 
 ## Project Description
-??? LINK TO WHAT ???
+[Visualization #1](https://public.tableau.com/views/MGT4250Spring2024CourseProject/ScatterPlotofPollutionRatevs_GDPperCapita?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+[Visualization #2](https://public.tableau.com/views/MGT4250Spring2024CourseProject/TimeSeriesAnalysisofPollutionandGDPGrowthOverTime?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+[Visualization #3](https://public.tableau.com/views/MGT4250Spring2024CourseProject/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 This is a repository for my MGT 4250 class project at Elon University.
 
 ### Questions of interest
@@ -33,8 +35,8 @@ The dataset "outdoor-pollution-rate-vs-gdp.csv" is made of data comparing outdoo
 <img width="1440" alt="Screenshot 2024-05-07 at 6 12 07 PM" src="https://github.com/apercival24/mgt4250spring2024/assets/169103992/e87d6e43-034e-4a17-9dbb-891d98765732">
 ??? INTERPRETATION ???
 
-[Visualization #2](https://public.tableau.com/views/MGT4250Spring2024CourseProject/HeatMapofPollutionvs_GDPbyCountry?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
-<img width="1440" alt="Screenshot 2024-05-07 at 6 13 34 PM" src="https://github.com/apercival24/mgt4250spring2024/assets/169103992/5c231988-6576-438b-a524-dbb3a3aef4eb">
+[Visualization #3](https://public.tableau.com/views/MGT4250Spring2024CourseProject/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+<img width="1440" alt="Screenshot 2024-05-07 at 6 21 27 PM" src="https://github.com/apercival24/mgt4250spring2024/assets/169103992/89e57445-1c58-4de0-ac68-cc860139bba4">
 ??? INTERPRETATION ???
 
 ## Discussion & Summary
