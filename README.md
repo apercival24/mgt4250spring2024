@@ -18,6 +18,7 @@ References:
 - World Health Organization. (2021). Air pollution. [https://www.who.int/health-topics/air-pollution#tab=tab_1].
 - Stern, D. I. (2004). The rise and fall of the Environmental Kuznets Curve. World Development, 32(8), 1419-1439.
 
+
 ## Data Description
 The data for this analysis can be accessed and downloaded via the following steps: 
 - Visit [https://www.kaggle.com/datasets/programmerrdai/outdoor-air-pollution].
@@ -26,10 +27,17 @@ The data for this analysis can be accessed and downloaded via the following step
 
 The dataset "outdoor-pollution-rate-vs-gdp.csv" is made of data comparing outdoor pollution rates to GDP across various countries over specific years. It includes columns for country names, the years of data collection, pollution rate indicators, and GDP figures (total or per capita). This dataset is instrumental in analyzing how economic growth patterns affect environmental health across different geographical locations and times. Such analysis can reveal trends and insights that are crucial for formulating public health policies and economic strategies that prioritize environmental sustainability alongside economic development.
 
+
 ## Interpreting Visualizations
 [Visualization #1](https://public.tableau.com/views/MGT4250Spring2024CourseProject/ScatterPlotofPollutionRatevs_GDPperCapita?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) 
-<img width="1440" alt="Screenshot 2024-05-07 at 6 09 43 PM" src="https://github.com/apercival24/mgt4250spring2024/assets/169103992/6db32f44-30fc-4adb-ab8e-0401d7874007">
-??? INTERPRETATION ???
+<img width="1440" alt="Screenshot 2024-05-07 at 6 41 33 PM" src="https://github.com/apercival24/mgt4250spring2024/assets/169103992/be931e5d-6021-452f-936f-5b0b6072e23b">
+The scatter plot highlights the correlation between pollution rates and GDP per capita globally. The x-axis shows average GDP per capita, while the y-axis reflects population estimates. Each circle represents a continent, sized according to pollution-related deaths, with its position illustrating the relationship between GDP per capita and population.
+
+In Asia and Africa, large populations and relatively low GDP per capita correlate with higher pollution-related deaths due to dense populations and industrial activity. In contrast, Europe and North America have higher GDP per capita and fewer pollution-related deaths, reflecting stricter environmental policies and better living standards.
+
+This data emphasizes the need for balanced environmental and public health policies. While higher economic growth often aligns with reduced pollution in regions with strong regulations, developing areas with large populations need stricter policies to minimize pollution-related deaths. Global collaboration, technology transfer, and investments in clean energy can help developing countries grow economically without worsening pollution and health impacts.
+
+Overall, the scatter plot underscores the intricate link between pollution rates and economic growth, emphasizing the need for comprehensive policies that balance economic development with environmental protection.
 
 [Visualization #2](https://public.tableau.com/views/MGT4250Spring2024CourseProject/TimeSeriesAnalysisofPollutionandGDPGrowthOverTime?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 <img width="1440" alt="Screenshot 2024-05-07 at 6 12 07 PM" src="https://github.com/apercival24/mgt4250spring2024/assets/169103992/e87d6e43-034e-4a17-9dbb-891d98765732">
@@ -45,4 +53,16 @@ High-income countries, particularly in Asia and Europe, often display high GDP a
 
 This chart suggests that economic growth often comes with environmental trade-offs. High pollution levels in wealthier nations highlight the need for stricter environmental regulations and sustainable practices, while developing countries require technology transfers and funding to grow without worsening pollution. Ultimately, this relationship emphasizes the importance of global cooperation to align economic growth with environmental and public health priorities.
 
+
 ## Discussion & Summary
+[Article Relating to my Question](https://www.stlouisfed.org/on-the-economy/2017/september/effects-economic-growth-pollution)
+### Summary
+In the article "The Effects of Economic Growth on Pollution," the Federal Reserve Bank of St. Louis discusses how economic growth affects pollution levels. While pollution rises with economic growth, the increase occurs at a slower pace than economic expansion itself. The authors analyze CO₂ emissions, greenhouse gases, and particulate matter (PM2.5), finding that advanced economies often produce goods and services more efficiently, resulting in relatively fewer emissions. Despite this, pollution remains a concern, requiring policies to balance economic benefits with environmental impacts.
+
+### ChatGPT's Response to my Query
+Globally, pollution rates generally increase with economic growth, although at a slower pace than GDP expansion. This trend often follows the Environmental Kuznets Curve, where pollution rises during early industrialization but decreases once a certain income level is reached, due to better technology and environmental regulations. Implications for policy include the need for stricter environmental standards, investment in renewable energy, and sustainable practices to balance economic benefits with public health and environmental protection. Implementing these measures can mitigate pollution's negative impacts while fostering growth.
+
+### Visualization alignment with ChatGPT response and Article
+After examining my visualizations alongside the article "The Effects of Economic Growth on Pollution," it's clear they align well in illustrating the global relationship between pollution rates and economic growth. Both show that pollution generally rises with GDP but at a slower rate due to efficiency gains and better technology.
+
+This non-linear relationship varies by pollutant type and region, underscoring the need for comprehensive policies to balance growth with environmental health. Investing in cleaner technologies, renewable energy, and stricter regulations is crucial to minimize pollution while promoting sustainable economic expansion.
