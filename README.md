@@ -2,6 +2,9 @@
 Author: Alex Percival (apercival@elon.edu)
 
 ## Project Description
+??? LINK TO WHAT ???
+This is a repository for my MGT 4250 class project at Elon University
+
 ### Questions of interest
 How do pollution rates correlate with economic growth globally, and what implications might this have for environmental and public health policies?
 
