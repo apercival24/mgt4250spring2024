@@ -3,7 +3,7 @@ Author: Alex Percival (apercival@elon.edu)
 
 ## Project Description
 ??? LINK TO WHAT ???
-This is a repository for my MGT 4250 class project at Elon University
+This is a repository for my MGT 4250 class project at Elon University.
 
 ### Questions of interest
 How do pollution rates correlate with economic growth globally, and what implications might this have for environmental and public health policies?
@@ -25,6 +25,16 @@ The data for this analysis can be accessed and downloaded via the following step
 The dataset "outdoor-pollution-rate-vs-gdp.csv" is made of data comparing outdoor pollution rates to GDP across various countries over specific years. It includes columns for country names, the years of data collection, pollution rate indicators, and GDP figures (total or per capita). This dataset is instrumental in analyzing how economic growth patterns affect environmental health across different geographical locations and times. Such analysis can reveal trends and insights that are crucial for formulating public health policies and economic strategies that prioritize environmental sustainability alongside economic development.
 
 ## Interpreting Visualizations
-[Data vis 1](https://public.tableau.com/views/MGT4250Spring2024CourseProject/ScatterPlotofPollutionRatevs_GDPperCapita?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) 
+[Visualization #1](https://public.tableau.com/views/MGT4250Spring2024CourseProject/ScatterPlotofPollutionRatevs_GDPperCapita?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) 
+<img width="1440" alt="Screenshot 2024-05-07 at 6 09 43 PM" src="https://github.com/apercival24/mgt4250spring2024/assets/169103992/6db32f44-30fc-4adb-ab8e-0401d7874007">
+??? INTERPRETATION ???
+
+[Visualization #2](https://public.tableau.com/views/MGT4250Spring2024CourseProject/TimeSeriesAnalysisofPollutionandGDPGrowthOverTime?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+<img width="1440" alt="Screenshot 2024-05-07 at 6 12 07 PM" src="https://github.com/apercival24/mgt4250spring2024/assets/169103992/e87d6e43-034e-4a17-9dbb-891d98765732">
+??? INTERPRETATION ???
+
+[Visualization #2](https://public.tableau.com/views/MGT4250Spring2024CourseProject/HeatMapofPollutionvs_GDPbyCountry?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+<img width="1440" alt="Screenshot 2024-05-07 at 6 13 34 PM" src="https://github.com/apercival24/mgt4250spring2024/assets/169103992/5c231988-6576-438b-a524-dbb3a3aef4eb">
+??? INTERPRETATION ???
 
 ## Discussion & Summary
