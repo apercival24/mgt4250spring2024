@@ -47,11 +47,7 @@ The correlation between rising GDP per capita and increased pollution levels hig
 
 [Visualization #3](https://public.tableau.com/views/MGT4250Spring2024CourseProject/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 <img width="1440" alt="Screenshot 2024-05-07 at 6 21 27 PM" src="https://github.com/apercival24/mgt4250spring2024/assets/169103992/89e57445-1c58-4de0-ac68-cc860139bba4">
-The bar chart shows the correlation between pollution and GDP per capita across continents, using bar color to indicate each country's continent and bar height to represent pollution levels. The y-axis reflects average GDP per capita (PPP in 2017 dollars), highlighting economic prosperity.
-
-High-income countries, particularly in Asia and Europe, often display high GDP alongside elevated pollution levels, such as Qatar. In contrast, lower-income nations, primarily in Africa, generally show lower pollution, though some still face significant challenges.
-
-This chart suggests that economic growth often comes with environmental trade-offs. High pollution levels in wealthier nations highlight the need for stricter environmental regulations and sustainable practices, while developing countries require technology transfers and funding to grow without worsening pollution. Ultimately, this relationship emphasizes the importance of global cooperation to align economic growth with environmental and public health priorities.
+The bar chart visually presents the comparison of GDP per capita and pollution across various countries, categorized by continents. Each continent is represented by a different color, making it easy to see the economic and environmental profiles side by side. African countries, indicated in orange, typically show lower GDP per capita and lower pollution levels, while European countries, in green, often display higher GDP and variable pollution levels. This visualization highlights the economic and environmental characteristics of each region, which can be crucial for understanding regional development challenges and the effectiveness of environmental policies.
 
 
 ## Discussion & Summary
